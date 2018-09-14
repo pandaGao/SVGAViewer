@@ -1,4 +1,8 @@
-# svga-viewer
+# SVGA Viewer
+
+Preview .svga files online
+
+[Online Demo](http://www.pandagao.com/SVGAViewer/)
 
 ## Project setup
 ```
